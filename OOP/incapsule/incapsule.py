@@ -60,4 +60,4 @@ class MBank:
 
 joomart = MBank('Жоомарт', 'Токтогулов')
 joomart.set__cash(100000)
-joomart.kom(50000)
+joomart.kom(50001)
